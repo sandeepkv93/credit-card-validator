@@ -9,4 +9,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: './', // Ensures assets are loaded with relative paths on GitHub Pages
+  build: {
+    chunkSizeWarningLimit: 1200,
+  },
 })
