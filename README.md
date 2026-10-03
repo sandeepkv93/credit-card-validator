@@ -2,6 +2,8 @@
 
 A modern, responsive, client-side web application for validating and inspecting credit cards in real time. Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and powered completely by [Braintree's official `card-validator`](https://github.com/braintree/card-validator) library.
 
+🔗 **Live Demo:** [https://sandeepkv93.github.io/credit-card-validator/](https://sandeepkv93.github.io/credit-card-validator/)
+
 Designed for seamless deployment to **GitHub Pages**.
 
 ---
